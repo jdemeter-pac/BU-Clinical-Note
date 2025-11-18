@@ -1,5 +1,4 @@
-# BU-Clinical-Note
-Clinical note generator for simulated patient encounters.
+[EMR 29.html.html](https://github.com/user-attachments/files/23611539/EMR.29.html.html)
 <!DOCTYPE Posted HTML>
 <html lang="en">
 <head>
